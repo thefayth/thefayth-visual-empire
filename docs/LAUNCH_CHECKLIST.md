@@ -11,9 +11,9 @@
 - [x] WordPress draft created.
 - [x] Image asset audit created.
 - [x] Privacy review created.
-- [ ] Authenticated GitHub availability check completed.
-- [ ] Repository created or versioned.
-- [ ] Repository pushed from `_github_public_export` only.
+- [x] Authenticated GitHub availability check completed.
+- [x] Repository created or versioned.
+- [x] Repository populated from `_github_public_export` only.
 - [ ] Faith final review completed.
 
 Chosen repository slug: `thefayth-visual-empire`

@@ -8,7 +8,7 @@
 
             Chosen repository slug: `thefayth-visual-empire`
 
-            Version status: base public repository prepared as v1 public surface; GitHub availability must be confirmed with working authenticated GitHub tooling before push.
+            Version status: base public repository created and populated from this `_github_public_export` package.
 
             Repository URL: https://github.com/thefayth/thefayth-visual-empire
 
@@ -66,4 +66,4 @@
 
             ## Recommended Next Action
 
-            Review the public surface locally, repair GitHub CLI authentication if needed, then create or push the intended repository only from this `_github_public_export` folder.
+            Review the live GitHub public surface, approve or revise the FaithCheltenham.com draft, then publish the WordPress page only after Faith approval.
