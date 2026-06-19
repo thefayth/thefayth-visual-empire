@@ -1,20 +1,20 @@
 # Public Surface Receipt
 
-            ## Project
+## Project
 
-            Project name: TheFAYTH Visual Empire
+Project name: TheFAYTH Visual Empire
 
-            Base slug: `thefayth-visual-empire`
+Base slug: `thefayth-visual-empire`
 
-            Chosen repository slug: `thefayth-visual-empire`
+Chosen repository slug: `thefayth-visual-empire`
 
-            Version status: base public repository created and populated from this `_github_public_export` package.
+Version status: base public repository created and populated from this `_github_public_export` package.
 
-            Repository URL: https://github.com/thefayth/thefayth-visual-empire
+Repository URL: https://github.com/thefayth/thefayth-visual-empire
 
-            ## Files Created Or Modified
+## Files Created Or Modified
 
-            - README.md
+- README.md
 - LICENSE.md
 - NOTICE.md
 - SECURITY.md
@@ -26,44 +26,44 @@
 - wordpress/page.md
 - wordpress/meta.md
 
-            ## Files Excluded
+## Files Excluded
 
-            - Source code, scripts, prompts, target registries, production credentials, rollback snapshots, and live publishing adapters.
+- Source code, scripts, prompts, target registries, production credentials, rollback snapshots, and live publishing adapters.
 - Private receipts, unpublished strategy files, customer or site data, and authentication workflows.
 - Any credential-bearing COAI, WordPress, Canva, or server configuration.
 
-            ## Selected Visuals
+## Selected Visuals
 
-            Use actual FVE desktop screenshots and owned engine-generated public sample assets before generating new visuals.
+Use actual FVE desktop screenshots and owned engine-generated public sample assets before generating new visuals.
 
-            See `docs/IMAGE_ASSET_AUDIT.md` for source, destination, purpose, alt text, and safety rating.
+See `docs/IMAGE_ASSET_AUDIT.md` for source, destination, purpose, alt text, and safety rating.
 
-            ## Workflow Status
+## Workflow Status
 
-            Workflow diagrams created:
+Workflow diagrams created:
 
-            - `assets/diagrams/workflow-overview.mmd`
-            - `assets/diagrams/workflow-overview.svg`
-            - `assets/diagrams/public-private-boundary.mmd`
-            - `assets/diagrams/public-private-boundary.svg`
-            - `docs/WORKFLOW_DIAGRAMS.md`
+- `assets/diagrams/workflow-overview.mmd`
+- `assets/diagrams/workflow-overview.svg`
+- `assets/diagrams/public-private-boundary.mmd`
+- `assets/diagrams/public-private-boundary.svg`
+- `docs/WORKFLOW_DIAGRAMS.md`
 
-            ## WordPress Status
+## WordPress Status
 
-            Draft created only. No WordPress publishing was performed.
+Draft created only. No WordPress publishing was performed.
 
-            Suggested path: `/projects/thefayth-visual-empire/`
+Suggested path: `/projects/thefayth-visual-empire/`
 
-            ## Privacy Status
+## Privacy Status
 
-            Default readiness: READY AFTER FAITH REVIEW.
+Default readiness: READY AFTER FAITH REVIEW.
 
-            ## What Remains Private
+## What Remains Private
 
-            - Source code, scripts, prompts, target registries, production credentials, rollback snapshots, and live publishing adapters.
+- Source code, scripts, prompts, target registries, production credentials, rollback snapshots, and live publishing adapters.
 - Private receipts, unpublished strategy files, customer or site data, and authentication workflows.
 - Any credential-bearing COAI, WordPress, Canva, or server configuration.
 
-            ## Recommended Next Action
+## Recommended Next Action
 
-            Review the live GitHub public surface, approve or revise the FaithCheltenham.com draft, then publish the WordPress page only after Faith approval.
+Review the live GitHub public surface, approve or revise the FaithCheltenham.com draft, then publish the WordPress page only after Faith approval.

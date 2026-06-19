@@ -1,6 +1,6 @@
 # Image Asset Audit
 
-            | Source path | Destination path | Purpose | Alt text | Safety rating |
+| Source path | Destination path | Purpose | Alt text | Safety rating |
 | --- | --- | --- | --- | --- |
 | `docs/fantasia/assets/screenshots/actual-coai-assets-hub.png` | `assets/hero/hero-image.png` | README and WordPress hero | FVE COAI Assets Hub desktop view | PUBLIC SAFE |
 | `generated local card` | `assets/banners/github-banner.png` | GitHub repository banner | TheFAYTH Visual Empire public banner | PUBLIC SAFE |
