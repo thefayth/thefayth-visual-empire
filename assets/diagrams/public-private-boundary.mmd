@@ -1,0 +1,6 @@
+flowchart LR
+  Public["Public GitHub surface"] --> Docs["Docs, diagrams, screenshots"]
+  Public --> WP["FaithCheltenham.com draft"]
+  Private["Private FVE engine"] --> Code["Source, prompts, adapters"]
+  Private --> Secrets["Credentials, rollback, production logs"]
+  Docs -. "explains without exposing" .-> Private

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img">
+<title>TheFAYTH Visual Empire public/private boundary</title>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#0F6B69"/></marker></defs>
+<rect width="1200" height="680" fill="#F5F7F7"/>
+<text x="70" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#151F27">TheFAYTH Visual Empire public/private boundary</text>
+<path d="M 210 225 L 330 225" stroke="#0F6B69" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 470 225 L 330 435" stroke="#0F6B69" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 770 225 L 890 225" stroke="#0F6B69" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1030 225 L 630 435" stroke="#0F6B69" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 470 435 L 630 435" stroke="#0F6B69" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<rect x="90" y="180" width="220" height="92" rx="14" fill="#FFFFFF" stroke="#C9D7D7" stroke-width="3"/>
+<text x="110" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#151F27">Public GitHub</text>
+<text x="110" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#596B76">overview only</text>
+<rect x="350" y="180" width="220" height="92" rx="14" fill="#E9F7F7" stroke="#C9D7D7" stroke-width="3"/>
+<text x="370" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#151F27">WordPress Draft</text>
+<text x="370" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#596B76">project page</text>
+<rect x="650" y="180" width="220" height="92" rx="14" fill="#FFFFFF" stroke="#C9D7D7" stroke-width="3"/>
+<text x="670" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#151F27">Private Engine</text>
+<text x="670" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#596B76">source + prompts</text>
+<rect x="910" y="180" width="220" height="92" rx="14" fill="#E9F7F7" stroke="#C9D7D7" stroke-width="3"/>
+<text x="930" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#151F27">Live Adapters</text>
+<text x="930" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#596B76">credentials hidden</text>
+<rect x="350" y="390" width="220" height="92" rx="14" fill="#FFFFFF" stroke="#C9D7D7" stroke-width="3"/>
+<text x="370" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#151F27">Receipts</text>
+<text x="370" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#596B76">auditable proof</text>
+<rect x="650" y="390" width="220" height="92" rx="14" fill="#E9F7F7" stroke="#C9D7D7" stroke-width="3"/>
+<text x="670" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#151F27">Rollback</text>
+<text x="670" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#596B76">private guard</text>
+</svg>
