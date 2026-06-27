@@ -52,6 +52,16 @@ README, status, roadmap, workflow diagrams, brand notes, image audit, privacy re
 
 This project belongs to Faith's broader TheFAYTH / XXYYZZ Society LLC ecosystem and should link back to FaithCheltenham.com as the public project home.
 
+## Work With Faith
+
+Faith offers quote-first website visual cleanup, AI brand system audits, GitHub/public surface packaging, local AI workflow setup, and protected-file/provenance consulting.
+
+Primary CTA: [Request a scoped project](https://faithcheltenham.com/contact/)
+
+Secondary CTA: [View GitHub public surface](https://github.com/thefayth/thefayth-visual-empire)
+
+Tertiary CTA: [Ask about licensing or partnership](https://faithcheltenham.com/contact/)
+
 ## Ownership Statement
 
 Copyright (c) 2026 XXYYZZ Society LLC and Faith Cheltenham. All rights reserved.

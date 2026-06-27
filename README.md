@@ -52,6 +52,14 @@ FVE gathers a brief and memory, plans or imports assets, records source receipts
 
 Prepared public surface. The private FVE engine remains local-first and review-gated.
 
+## Work With Faith
+
+Faith offers quote-first website visual cleanup, AI brand system audits, GitHub/public surface packaging, local AI workflow setup, and protected-file/provenance consulting.
+
+- Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+- Project page: [TheFAYTH Visual Empire](https://faithcheltenham.com/projects/thefayth-visual-empire/)
+- Ask about licensing or partnership: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+
 ## How To Learn More
 
 - Review the public docs in `docs/`.
