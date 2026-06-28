@@ -59,6 +59,7 @@ Faith offers quote-first website visual cleanup, AI brand system audits, GitHub/
 - Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 - Project page: [TheFAYTH Visual Empire](https://faithcheltenham.com/projects/thefayth-visual-empire/)
 - Portfolio and offers: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+- Public proof snapshots: [Public Proof Snapshots](https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-snapshots.html)
 - Share / send kit: [Share / Send Kit](https://thefayth.github.io/faith-ai-systems-portfolio/share-send-kit.html)
 - Work with Faith: [Work With Faith](https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html)
 - Public prospect packet: [Prospect Packet](https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html)
